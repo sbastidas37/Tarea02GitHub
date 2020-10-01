@@ -1,0 +1,1 @@
+Este es el Readme de la Tarea 02 de GitHub, aqui va toda la info del repositorio
